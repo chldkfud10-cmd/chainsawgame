@@ -1,5 +1,7 @@
 # ChanSawGame
 
+https://youtu.be/edi4JDuQSE8?si=03FTWVy55UQSPiLa
+
 ## 요구사항
 
 - Python 3.7 이상
